@@ -1,4 +1,6 @@
 <?
-$welcome = "Hello Swamy 2\n This is a Test";
+$welcome = "Hello Swamy 2\n";
+$test ="This is a Automation Test";
 echo $welcome;
+echo $test;
 ?>
