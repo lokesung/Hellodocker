@@ -1,6 +1,4 @@
 <?
-$welcome = "Hello Swamy 4", PHP_EOL;
-$test ="This is a Automation Test";
+$welcome = "Hello Swamy 5";
 echo $welcome;
-echo $test;
 ?>
