@@ -11,7 +11,9 @@
   <p>Here is some static content.</p>
   <p><?php echo "Here is some dynamic content"; ?></p>
   <div>
-  <img src="/root/git/docker/src/HCL.png" alt="myPic" />
+  
+echo '<'img src="/root/git/docker/src/HCL.png">
+
   </div>
 </body>
 </html>
