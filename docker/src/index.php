@@ -11,9 +11,11 @@
   <p>Here is some static content.</p>
   <p><?php echo "Here is some dynamic content"; ?></p>
   <p>
+  <?php
   $img = '/root/git/docker/src/HCL.png';
 	header('Content-Type: image/jpeg');
 	readfile($img);
-  </p>
+  ?>
+</p>
 </body>
 </html>
