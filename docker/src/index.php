@@ -6,7 +6,7 @@
   <p>Here is some static content.</p>
   <p><img 
 src="https://cdn-images-1.medium.com/max/1200/1*CSZxfOMlVsKsrMkqTxFiMQ.png" 
-alt="W3Schools.com"></p>
+alt="Devops"></p>
 </body>
 </html>
 
