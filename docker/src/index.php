@@ -2,8 +2,7 @@
 
 <html lang="en">
 <body>
-  <h1>HCL Automation Devops</h1>
-   <p><img
+  <p><img
 src="http://www.clker.com/cliparts/T/5/d/2/w/R/hcl-logo-v3.svg.med.png"
 alt="logo"></p>
   <p>This test site is auto build from Docker.</p>
