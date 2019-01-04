@@ -11,9 +11,9 @@
   <p>Here is some static content.</p>
   <p><?php echo "Here is some dynamic content"; ?></p>
   <div>
-  
-echo '<'img src="/root/git/docker/src/HCL.png">';
-
+  $img = '/root/git/docker/src/HCL.png';
+	header('Content-Type: image/jpeg');
+	readfile($img);
   </div>
 </body>
 </html>
