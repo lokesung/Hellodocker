@@ -12,7 +12,7 @@
   <p><?php echo "Here is some dynamic content"; ?></p>
   <div>
   
-echo '<'img src="/root/git/docker/src/HCL.png">
+echo '<'img src="/root/git/docker/src/HCL.png">';
 
   </div>
 </body>
