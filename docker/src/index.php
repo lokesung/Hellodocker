@@ -11,7 +11,7 @@
   <p>Here is some static content.</p>
   <p><?php echo "Here is some dynamic content"; ?></p>
   <div>
-  <img src="HCL.png" alt="myPic" />
+  <img src="/root/git/docker/src/HCL.png" alt="myPic" />
   </div>
 </body>
 </html>
