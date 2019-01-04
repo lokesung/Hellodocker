@@ -1,7 +1,14 @@
-<html><head><title><?php echo "HCL Devops Automation";?></title></head>
-<body
+<!doctype html>
 
-<img 
-src="https://www.naseba.com/wp-content/uploads/2018/09/HCL-Technologies.png">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My PHP Website</title>
+</head>
 
-<br><h1>HCL Devops</h1>
+<body>
+  <h1>My PHP Website</h1>
+  <p>Here is some static content.</p>
+  <p><?php echo "Here is some dynamic content"; ?></p>
+</body>
+</html>
