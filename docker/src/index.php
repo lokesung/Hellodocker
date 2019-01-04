@@ -1,4 +1,4 @@
 <?
-$welcome = "Hello Swamy 9";
+$welcome = "Hello Swamy 1";
 echo $welcome;
 ?>
