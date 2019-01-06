@@ -9,7 +9,7 @@ src="http://www.clker.com/cliparts/T/5/d/2/w/R/hcl-logo-v3.svg.med.png"
 alt="logo">
 </center>
 <center>
-<h1>The time now is 0141 AM</h1>
+<h1>The time now is 16:37 PM</h1>
 </center>
 </p>
   <p><img 
